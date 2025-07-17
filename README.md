@@ -1,1 +1,0 @@
-# Normal-cyst-tumor-stone-detection-in-kidney-using-Deep-Learning-Techniques
